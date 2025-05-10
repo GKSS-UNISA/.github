@@ -3,7 +3,7 @@
 <div align="center">
   <img src="../assets/gkss_brand_logo.png" height="300px" width="300px">
   <p>
-    We are a chapter of the Geekulcha Student Society ([GKSS](https://geekulcha.dev/gkss)) program which is the part of the [Geekulcha](https://geekulcha.dev)
+    We are a chapter of the Geekulcha Student Society <a href="https://geekulcha.dev/gkss">GKSS</a> program which is the part of the <a href="https://geekulcha.dev">Geekulcha</a>
     organisation that brings closer the developer community & leadership skills to students in universities. 🎓
   </p>
 </div>
